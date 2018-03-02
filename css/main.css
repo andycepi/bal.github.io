@@ -25,6 +25,9 @@ nav li a{
   padding:14px 16px;
   text-decoration: none;
 }
+.imgContainer{
+  display:inline-block;
+}
 nav li a:hover{
   background-color: #2E86C1;
 }
