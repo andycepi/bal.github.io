@@ -6,19 +6,18 @@ div.navbar {
   background-color: #333;
 }
 
-ul {
-
+nav ul {
   list-style-type: none;
   margin: 0
   padding: 0;
   overflow: hidden;
   background-color: #333;
 }
-li{
+nav li{
   float: left;
   display: inline;
 }
-li a{
+nav li a{
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
   display: block;
   color:white;
@@ -26,7 +25,7 @@ li a{
   padding:14px 16px;
   text-decoration: none;
 }
-li a:hover{
+nav li a:hover{
   background-color: #2E86C1;
 }
 a {
