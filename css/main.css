@@ -32,6 +32,10 @@ nav li a{
   display: inline-block;
   margin-left: 85%;
 }
+.imgC2{
+  display: inline-block;
+  margin-left: 85%;
+}
 nav li a:hover{
   background-color: #2E86C1;
 }
