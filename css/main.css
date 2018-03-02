@@ -18,10 +18,14 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-li a:hover{
-  background-color: #111;
+nav li a{
+  display: block;
+  color: white;
+  text-align:center;
+  text-decoration: none;
+  padding: 14px 16px;
 }
-.active{
+li a:hover{
   background-color: #2E86C1;
 }
 a {
