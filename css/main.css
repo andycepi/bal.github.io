@@ -28,6 +28,9 @@ nav li a{
 .logo{
   display: inline-block;
 }
+.imgC{
+  display: inline-block;
+}
 nav li a:hover{
   background-color: #2E86C1;
 }
