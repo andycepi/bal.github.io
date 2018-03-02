@@ -26,7 +26,6 @@ nav li a{
   text-decoration: none;
 }
 .imgContainer{
-  display:inline-block;
 }
 nav li a:hover{
   background-color: #2E86C1;
