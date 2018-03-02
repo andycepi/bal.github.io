@@ -16,6 +16,7 @@ ul {
 }
 li{
   float: left;
+  display: inline;
 }
 li a{
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
